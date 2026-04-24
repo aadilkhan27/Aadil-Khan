@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2ca0cd3f-93d1-48c7-8bcf-b55396ce126c" name="Changes" comment="system-theme implemented" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="module" />
+      <option value="repository" />
+    </option>
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="3CkuTbHh9g1p5TTQMEsGdW1L5na" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Projects/Flutter/Portfolio/portfolio-live&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.google.gct.login2.settings.GoogleLoginApplicationSettingsConfigurableProvider&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
+  }
+}</component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ca0cd3f-93d1-48c7-8bcf-b55396ce126c" name="Changes" comment="" />
+      <created>1776941897280</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1776941897280</updated>
+    </task>
+    <task id="LOCAL-00001" summary="latest code committed">
+      <option name="closed" value="true" />
+      <created>1776941948698</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1776941948698</updated>
+    </task>
+    <task id="LOCAL-00002" summary="latest code committed">
+      <option name="closed" value="true" />
+      <created>1776942072675</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1776942072675</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fav icon changed">
+      <option name="closed" value="true" />
+      <created>1776943442954</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1776943442954</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fav circle icon update">
+      <option name="closed" value="true" />
+      <created>1776943958261</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1776943958261</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fav circle icon update">
+      <option name="closed" value="true" />
+      <created>1776945905542</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1776945905542</updated>
+    </task>
+    <task id="LOCAL-00006" summary="url update">
+      <option name="closed" value="true" />
+      <created>1776946291264</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1776946291264</updated>
+    </task>
+    <task id="LOCAL-00007" summary="url update">
+      <option name="closed" value="true" />
+      <created>1776946455521</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1776946455521</updated>
+    </task>
+    <task id="LOCAL-00008" summary="starting-route fix">
+      <option name="closed" value="true" />
+      <created>1776946907844</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1776946907844</updated>
+    </task>
+    <task id="LOCAL-00009" summary="system-theme implemented">
+      <option name="closed" value="true" />
+      <created>1776949668721</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1776949668721</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="latest code committed" />
+    <MESSAGE value="fav icon changed" />
+    <MESSAGE value="fav circle icon update" />
+    <MESSAGE value="url update" />
+    <MESSAGE value="starting-route fix" />
+    <MESSAGE value="system-theme implemented" />
+    <option name="LAST_COMMIT_MESSAGE" value="system-theme implemented" />
+  </component>
+</project>
