@@ -43251,7 +43251,7 @@ return A.O($async$AH,r)},
 a0c(a,b){var s=null,r=a?50:80,q=a?50:80
 return A.oM(s,A.a6t(b.b,s,r,s,q),B.af,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.anb(this,b),s,s,s,s,s,s)},
 aj7(a){var s=A.c(["5+ years mobile development (Android Native + Flutter)","Build apps for Android, iOS & Web using Flutter","Strong Android Native foundation (Kotlin/Java)","Clean, scalable & production-ready architecture","End-to-end development (idea \u2192 deployment)","API integration & real-world app features"],t.s),r=a?2:3,q=a?16:40
-return new A.bZ(new A.ay(q,0,q,0),A.avy(new A.C5(r,16,16,a?110:90),new A.an1(s,a),6,B.hr,!0),null)},
+return new A.bZ(new A.ay(q,0,q,0),A.avy(new A.C5(r,16,16,a?110:50),new A.an1(s,a),6,B.hr,!0),null)},
 a5R(a,b){if(a)return A.aLC(new A.amQ(this),13,B.hr,new A.amR(),!0)
 return A.avy(B.WO,new A.amS(this),13,B.hr,!0)},
 R5(a,b){var s,r,q,p,o,n,m=this,l=null,k=A.dd(16),j=m.c
